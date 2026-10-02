@@ -335,3 +335,7 @@ If you find this guide helpful, please consider:
 **Last Updated:** October 7, 2025  
 **Maintainer:** [@girishlade111](https://github.com/girishlade111)  
 **Status:** 🟢 Active Development
+
+---
+
+**Built by Girish Lade** — https://ladestack.in
